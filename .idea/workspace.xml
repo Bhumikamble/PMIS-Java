@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7af6d95e-3693-467c-be4d-84a1e49c2fd9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BasicBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BasicBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BeanConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BeanConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BeanMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BeanMethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BeanScopeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/BeanScopeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/ComponentBeanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/ComponentBeanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/ConstructorInjectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/ConstructorInjectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/PrototypeBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/PrototypeBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/ScopeConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 19/demo/src/main/java/com/example/demo/basic/ScopeConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/controller/RequestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/controller/RequestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/controller/SupplyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/controller/SupplyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/model/Supply.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/model/Supply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/model/SupplyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/model/SupplyRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/repository/RequestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/repository/RequestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/repository/SupplyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/repository/SupplyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/service/RequestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/service/RequestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/service/SupplyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/java/com/example/demo/service/SupplyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-18-Springboot/demo/src/main/resources/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Dell/OneDrive/Desktop/JAVA Training/Fleet Maintenance &amp; Fuel Audit System" value="3LXeXrtNq4g4E40487v1N2izT7w" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LXeNQVzOB0I5QewX4u4fdV1J7h" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/OneDrive/Desktop/JAVA Training/Fleet Maintenance & Fuel Audit System",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af6d95e-3693-467c-be4d-84a1e49c2fd9" name="Changes" comment="" />
+      <created>1793604809605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793604809605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
