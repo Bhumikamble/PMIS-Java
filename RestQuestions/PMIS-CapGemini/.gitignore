@@ -1,0 +1,7 @@
+
+# IntelliJ IDEA settings
+.idea/
+
+# Compiled Java output
+out/
+*.class
