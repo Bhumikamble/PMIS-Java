@@ -1,0 +1,6 @@
+com\springAI\versionTwo\VersionTwoApplication.class
+com\springAI\versionTwo\dto\AiSupportResponse.class
+com\springAI\versionTwo\dto\SupportRequest.class
+com\springAI\versionTwo\controller\SupportController.class
+com\springAI\versionTwo\dto\SupportResponse.class
+com\springAI\versionTwo\dto\ErrorResponse.class
